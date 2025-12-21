@@ -1,5 +1,6 @@
 # Data Analytics & Data Science Projects
-Visit my data portfolio: [Go to Data Portfolio] (https://chartreuse-twine-dcf.notion.site/Thandi-s-Data-Portfolio-187407572146802d8fadd8028d17bee9)
+Visit my data portfolio:  
+👉 [Go to Data Portfolio](https://chartreuse-twine-dcf.notion.site/Thandi-s-Data-Portfolio-187407572146802d8fadd8028d17bee9)
 | Title | Description | Files & Media | GITHUB | Industry | Tools |
 |------|-------------|---------------|--------|----------|-------|
 | Google Analytics Analysis | Using Google Analytics data from a digital publishing platform, I applied Python-based statistical analysis to evaluate the relationship between engaged sessions and user engagement time. This was complemented with content analysis to uncover language and genre distribution insights supporting editorial and growth strategy. | [Analytics Presentation (PDF)](https://github.com/moyothandiwe/moondancer/blob/main/Digital%20Publishing%20Analytics%20Presentation%20-%20MOYO%20Thandiwe.pdf) | [Notebook](https://github.com/moyothandiwe/moondancer/blob/main/Statistical_Analysis_of_Google_Analytics.ipynb) | Digital Publishing, SEC | Claude Sonnet 4.5, Google Analytics, Python, Strategy |
